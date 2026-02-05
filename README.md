@@ -49,7 +49,7 @@ The dashboard includes the following analysis:
 
 ## Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](https://github.com/nithishhhhh/Sales-Performance-Dashboard-Excel/blob/main/Project01_Sales_Performance_Dashboard.xlsm)
 
 ---
 
